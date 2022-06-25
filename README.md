@@ -2110,6 +2110,7 @@ Use journalctl -u <service name> to get the log output and read what might be wr
 Review your PKI setup again. Ensure that the certificates you generated have the hostnames properly configured.
 It is okay to start all over again. Each time you attempt the solution is an opportunity to learn something.
 
+# SCREENSHOT
 ![alt text](./images/a13.PNG)
 
 ![alt text](./images/a14.PNG)
