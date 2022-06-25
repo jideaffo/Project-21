@@ -2143,7 +2143,6 @@ It is okay to start all over again. Each time you attempt the solution is an opp
 
 ![alt text](./images/a28.PNG)
 
-![alt text](image.jpg)
 
 
 
